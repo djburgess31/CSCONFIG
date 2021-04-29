@@ -1,0 +1,2 @@
+# CSCONFIG
+CSGO Config
