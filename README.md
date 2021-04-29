@@ -20,5 +20,5 @@ MSAA: 2x\
 FXAA: On\
 Texture Filtering Mode: Bilinear
 
-#Launch Options
+# Launch Options
 -novid -freq 240 -tickrate 128 +exec autoexec.cfg +mat_queue_mode 2
