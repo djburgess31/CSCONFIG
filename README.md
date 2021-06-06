@@ -12,10 +12,10 @@ Mouse Pad: Glorious GXXL\
 # Video Settings
 Resolution: 1440 x 1080 4:3 Stretched\
 Color Mode: Television\
-Global Shadow Quality: Medium\
+Global Shadow Quality: High\
 Texture Detail: Medium\
 Effect Detail: Low\
-Shader Detail: Medium\
+Shader Detail: Low\
 MSAA: 2x\
 FXAA: On\
 Texture Filtering Mode: Bilinear
