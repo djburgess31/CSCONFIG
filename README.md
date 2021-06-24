@@ -21,4 +21,4 @@ FXAA: On\
 Texture Filtering Mode: Bilinear
 
 # Launch Options
--novid -freq 240 -tickrate 128 +exec autoexec.cfg +mat_queue_mode 2
+-novid -nojoy -high -fullscreen -refresh 240 -tickrate 128 -limitvsconst -forcenovsync +r_dynamic 0 +mat_disable_fancy_blending 1 +cl_forcepreload 1 +exec autoexec.cfg
