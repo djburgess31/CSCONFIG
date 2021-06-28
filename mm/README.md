@@ -23,9 +23,9 @@ Demo Instructions
 2. Find player ids using "listplayers"
 3. Exit demo
 4. Configure commands\
-	"mirv_pov <id>" - a pov view of player\
-	"mirv_replace_name filter add <userid> <newname>" - replaces names\
-	"mirv_deathmsg filter add attackerMatch=!x<XUID> victimMatch=!x<XUID> block=1 lastRule=1" - filters out other death messages
+	"mirv_pov \<id\>" - a pov view of player\
+	"mirv_replace_name filter add \<userid\> \<newname\>" - replaces names\
+	"mirv_deathmsg filter add attackerMatch=!x\<XUID\> victimMatch=!x\<XUID\> block=1 lastRule=1" - filters out other death messages
 5. Setup streams using "configstreams"
 6. Edit streams using presets:\
 	"simple" - hud black/white streams, world + viewmodel stream\
