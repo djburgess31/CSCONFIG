@@ -4,7 +4,7 @@ CSGO Config
 # djburgess
 My CFG Files
 
-Mouse:  Endgame XM1 at 400dpi, 1000hz\
+Mouse:  Endgame XM1R at 3000dpi, 1000hz\
 Keyboard: Vortex Tab 90M Cherry MX Silent Red\
 Mouse Pad: Endgame MPC 450 Cordura Stealth\
 360° rotation : 21.82 inches / 55.42cm
